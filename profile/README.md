@@ -1,4 +1,4 @@
-## Hi there 👋
+## This is CPT202 pet grooming team, nice to meet you! 👋
 
 <!--
 
