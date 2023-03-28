@@ -1,12 +1,11 @@
-## This is CPT202 pet grooming team, nice to meet you! 👋
+## CPT202 Pet Grooming Team
 
-<!--
+Welcome to the CPT202 Pet Grooming team - a group of talented Year 2 software engineering students at [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en) ([XJTLU](https://en.wikipedia.org/wiki/Xi%27an_Jiaotong-Liverpool_University)). 
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+We are passionate about creating innovative solutions for the pet grooming industry, and we're dedicated to delivering software that is user-friendly and efficient. Our team brings a diverse range of skills and expertise to the table, and we're excited to collaborate and build something great. We are embarking on this exciting journey of building cutting-edge technology for our furry friends!
+
+
+
+The present GitHub organization serves as the sanctioned repository for the Year 2 [CPT202](http://modules.xjtlu.edu.cn/?mod_code=CPT202) **Pet Grooming** Team of XJTLU during the 2022/23 academic year. As a result of the academic integrity guidelines, the underlying code cannot presently be divulged to the public. Nevertheless, upon conclusion of the course, the code will be made available to the public.
